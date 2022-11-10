@@ -1,1 +1,0 @@
-# TR-categorical.data.analysis.SURVEY-R
